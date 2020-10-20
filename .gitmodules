@@ -1,0 +1,6 @@
+[submodule "pythonparsingtask"]
+	path = pythonparsingtask
+	url = https://github.com/ChorusIntelligence/pythonparsingtask
+[submodule "lesmis"]
+	path = lesmis
+	url = https://github.com/ChorusIntelligence/lesmis
