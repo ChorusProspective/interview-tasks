@@ -4,3 +4,6 @@
 [submodule "lesmis"]
 	path = lesmis
 	url = https://github.com/ChorusIntelligence/lesmis
+[submodule "chorus-search-result"]
+	path = chorus-search-result
+	url = https://github.com/ChorusIntelligence/chorus-search-result
